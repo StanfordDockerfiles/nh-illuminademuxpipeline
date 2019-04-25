@@ -1,4 +1,4 @@
-FROM nathankw/centos6_essentials
+FROM nathankw/java8
 LABEL maintainer "Nathaniel Watson nathan.watson86@gmail.com"
 
 # Install the sbt build tool for Scala and Java libraries
